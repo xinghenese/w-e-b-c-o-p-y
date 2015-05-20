@@ -1,0 +1,1 @@
+./node_modules/.bin/bower-requirejs -c ./src/script/main/app/promise_test.js

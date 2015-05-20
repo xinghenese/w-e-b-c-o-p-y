@@ -1,0 +1,9 @@
+{
+//  "source": "src/script/main/app",
+//  "output": "bin/js",
+  "modules": [
+    {
+      "name": "app"
+    }
+  ]
+}

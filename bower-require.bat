@@ -1,0 +1,1 @@
+./node_modules/.bin/bower-requirejs --config ./src/script/main/app/socket.js

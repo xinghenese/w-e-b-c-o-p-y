@@ -1,0 +1,34 @@
+{
+  "name": "liao",
+  "version": "0.1.0",
+  "description": "webchat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "liao"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://192.168.0.20/git/shanliao/php/script.git"
+  },
+  "keywords": [
+    "liao",
+    "webchat"
+  ],
+  "author": "reco",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "bower-requirejs": "^1.1.3",
+    "browserify": "^10.2.1",
+    "gulp": "^3.8.11",
+    "gulp-autoprefixer": "^2.2.0",
+    "gulp-minify-css": "^1.1.1",
+    "gulp-sass": "^2.0.0",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-uglify": "^1.2.0",
+    "main-bower-files": "^2.7.1",
+    "node-sass": "^3.0.0",
+    "react-tools": "^0.13.3",
+    "requirejs": "^2.1.17"
+  }
+}
