@@ -44,7 +44,7 @@ gulp.task('test', function(){
 });
 
 gulp.task('copy', function(){
-  gulp.src('./*')
+  gulp.src('./**/*')
     .pipe(gulp.dest('../web.copy/'));
 });
 
